@@ -14,7 +14,7 @@
    ],
    "url": "https://github.com/nali796/LOGA-STAGE/raw/main/CHRISTMAS%20CHIMNEY%201.47.02.zip",
    "ext": ".zip",
-   "size": "",
+   "size": "1.4MB",
    "art": "cheminee",
    "img": ""
   }
@@ -23,11 +23,25 @@
   {
    "pub": true,
    "pin": false,
+   "date": "2026-12-07",
+   "tag": "Événement",
+   "title": "LIVE LOGASTAGE",
+   "intro": "Live tutoriel logiciel. ",
+   "details": "**Découvrez les fonctionnalité de LOGASTAGE en direct.**\nRetrouvez nous sur twitch le 07/12/2026 pour un live découverte où chacun pourra poser ses questions et en apprendre plus sur le logiciel.",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  },
+  {
+   "pub": true,
+   "pin": false,
    "date": "2026-11-19",
    "tag": "Devblog",
    "title": "LOGASTAGE 1.48.01",
    "intro": "Correctif bug télécommande, et homogénéisation graphique.",
-   "details": "Refonte de l'interface pour plus de simplicité et plus de praticité.\nBug de déconnexion en boucle de la télécommande réglé.\nRefonte du système de masque et de leur créations (dessin/ forme près calculé)",
+   "details": "**Refonte de l'interface pour plus de simplicité et plus de praticité.\nBug de déconnexion en boucle de la télécommande réglé.\nRefonte du système de masque et de leur créations (dessin/ forme près calculé)**",
    "img": "",
    "btn": {
     "label": "",
@@ -70,20 +84,6 @@
    "title": "LOGASTAGE 1.47.00 : nouvelle barre, horloge et pages de télécommande",
    "intro": "Une barre du haut plus lisible et deux nouvelles fenêtres de page.",
    "details": "- Barre du haut réorganisée : tempo, master, son, heure et actions regroupés.\n- Fenêtre Horloge numérique pour afficher l’heure en grand.\n- Fenêtre Pages télécommande pour créer tes propres pages sur le téléphone.\n- Le nom de la fenêtre affiche la version.",
-   "img": "",
-   "btn": {
-    "label": "",
-    "url": ""
-   }
-  },
-  {
-   "pub": true,
-   "pin": false,
-   "date": "2026-11-17",
-   "tag": "Annonce",
-   "title": "LOGA OS devient LOGASTAGE",
-   "intro": "Le nom LOGA OS était déjà pris : le logiciel s’appelle maintenant LOGASTAGE.",
-   "details": "Rien à faire de ton côté : tes projets et tes réglages sont conservés, et le dossier Documents › LOGA OS est renommé automatiquement au premier lancement.",
    "img": "",
    "btn": {
     "label": "",
