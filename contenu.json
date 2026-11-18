@@ -1,0 +1,108 @@
+{
+ "version": 1,
+ "projets": [
+  {
+   "pub": true,
+   "t": "Cheminée de Noël",
+   "cat": "ecrans",
+   "tag": "Noël",
+   "d": "Une cheminée pour les fêtes : un feu qui crépite dans l’âtre et de la neige qui tombe. Parfait sur un écran ou un mur LED pendant une soirée de Noël.",
+   "m": [
+    "Feu cartoon",
+    "Neige",
+    "LOGASTAGE 1.47.02 et plus"
+   ],
+   "url": "https://github.com/nali796/LOGA-STAGE/raw/main/CHRISTMAS%20CHIMNEY%201.47.02.zip",
+   "ext": ".zip",
+   "size": "",
+   "art": "cheminee",
+   "img": ""
+  }
+ ],
+ "annonces": [
+  {
+   "pub": true,
+   "pin": false,
+   "date": "2026-11-19",
+   "tag": "Devblog",
+   "title": "LOGASTAGE 1.48.01",
+   "intro": "Correctif bug télécommande, et homogénéisation graphique.",
+   "details": "Refonte de l'interface pour plus de simplicité et plus de praticité.\nBug de déconnexion en boucle de la télécommande réglé.\nRefonte du système de masque et de leur créations (dessin/ forme près calculé)",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  },
+  {
+   "pub": true,
+   "pin": false,
+   "date": "2026-11-18",
+   "tag": "Version",
+   "title": "LOGASTAGE 1.47.01 : les pages de télécommande se dessinent à la main",
+   "intro": "L’éditeur de pages de télécommande devient libre : tu places et tu redimensionnes chaque élément comme tu veux.",
+   "details": "- Glisse un fader, un calque, un cue laser ou un bouton pour le déplacer sur une grille de 4 colonnes.\n- Tire le coin d’un élément pour l’agrandir : un fader peut prendre toute la hauteur, une horloge toute la largeur.\n- Recherche et catégories pour ajouter un élément en un clic.\n- Le téléphone affiche la page exactement comme dans l’éditeur.\n- Correctif : les champs de texte reprennent le clavier sous Windows quand ils l’avaient perdu.\n- Correctif : « jouer un calque dans un masque » ouvre une liste des calques.",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  },
+  {
+   "pub": true,
+   "pin": false,
+   "date": "2026-11-18",
+   "tag": "Annonce",
+   "title": "Des projets exemples à télécharger",
+   "intro": "Une nouvelle rubrique Projets arrive sur le site : des projets complets à ouvrir dans LOGASTAGE pour apprendre ou démarrer plus vite.",
+   "details": "Cinq projets pour commencer : un mur LED de club, un vidéomapping de façade, un bar dansant en lumière, un show laser au tempo et un festival complet. D’autres suivront.",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  },
+  {
+   "pub": true,
+   "pin": false,
+   "date": "2026-11-17",
+   "tag": "Version",
+   "title": "LOGASTAGE 1.47.00 : nouvelle barre, horloge et pages de télécommande",
+   "intro": "Une barre du haut plus lisible et deux nouvelles fenêtres de page.",
+   "details": "- Barre du haut réorganisée : tempo, master, son, heure et actions regroupés.\n- Fenêtre Horloge numérique pour afficher l’heure en grand.\n- Fenêtre Pages télécommande pour créer tes propres pages sur le téléphone.\n- Le nom de la fenêtre affiche la version.",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  },
+  {
+   "pub": true,
+   "pin": false,
+   "date": "2026-11-17",
+   "tag": "Annonce",
+   "title": "LOGA OS devient LOGASTAGE",
+   "intro": "Le nom LOGA OS était déjà pris : le logiciel s’appelle maintenant LOGASTAGE.",
+   "details": "Rien à faire de ton côté : tes projets et tes réglages sont conservés, et le dossier Documents › LOGA OS est renommé automatiquement au premier lancement.",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  },
+  {
+   "pub": true,
+   "pin": false,
+   "date": "2026-11",
+   "tag": "Version",
+   "title": "LOGASTAGE 1.46.23",
+   "intro": "La version de départ, pour Windows et Mac : écrans et murs LED, lumière DMX, lasers ILDA et télécommande sur téléphone.",
+   "details": "",
+   "img": "",
+   "btn": {
+    "label": "",
+    "url": ""
+   }
+  }
+ ]
+}
